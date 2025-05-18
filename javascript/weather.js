@@ -87,19 +87,19 @@ document.addEventListener('DOMContentLoaded', function() {
             transition: background-image 0.5s ease;
         }
         .weather-default {
-            background-image: url('../main.jpg');
+            background-image: url('main.jpg');
         }
         .weather-sunny {
-            background-image: url('../weather_images/sunny.jpg');
+            background-image: url('weather_images/sunny.jpg');
         }
         .weather-cloudy {
-            background-image: url('../weather_images/cloudy.jpg');
+            background-image: url('weather_images/cloudy.jpg');
         }
         .weather-rainy {
-            background-image: url('../weather_images/rain.jpg');
+            background-image: url('weather_images/rain.jpg');
         }
         .weather-snowy {
-            background-image: url('../weather_images/snow.jpg');
+            background-image: url('weather_images/snow.jpg');
         }
     `;
     document.head.appendChild(style);
