@@ -1,0 +1,13 @@
+ body {
+    margin: 0;
+    padding: 0;
+    margin-top: -21px;
+ }
+
+.main-weather {
+    padding: 20px;
+    width: 250px;
+    height: 180px;
+    background-color: rgba(212, 212, 212, 0.3)
+    
+}

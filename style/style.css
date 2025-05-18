@@ -1,0 +1,27 @@
+body { 
+    background-image: url(/main.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial;
+     max-width: 300px; 
+     margin: 50px auto; 
+     justify-content: center;
+     text-align: center;
+}
+    input { 
+        width: 200px;
+        padding: 8px;
+        margin: 5px 0;
+     }
+    button { 
+        background: #4CAF50;
+        color: white;
+        border: none; 
+        padding: 10px; 
+        width: 200px;
+        
+     }
+    .error {
+        color: red; 
+    }
